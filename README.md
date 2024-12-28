@@ -18,9 +18,9 @@
 ## Скриншоты игры
 
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/Castlewood-Defenders/blob/main/Imgs/screenshot1.jpg' width=220>
-      <img src='https://github.com/PiRaMiDeON/Castlewood-Defenders/blob/main/Imgs/screenshot2.jpg' width=220> 
-      <img src='https://github.com/PiRaMiDeON/Castlewood-Defenders/blob/main/Imgs/screenshot3.jpg' width=220>
+      <img src='https://github.com/PiRaMiDeON/Castlewood-Defenders/blob/main/Imgs/Screenshot1.jpg' width=220>
+      <img src='https://github.com/PiRaMiDeON/Castlewood-Defenders/blob/main/Imgs/Screenshot2.jpg' width=220> 
+      <img src='https://github.com/PiRaMiDeON/Castlewood-Defenders/blob/main/Imgs/Screenshot3.jpg' width=220>
 </p>
 
 ## Процесс разработки
